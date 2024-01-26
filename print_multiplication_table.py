@@ -17,5 +17,6 @@ for row_numbers in range(1, 11):
 #Create another for loop for the column pattern with a range starting from 1 to 10 
     for column_numbers in range(1, 11):
 #Print the result of the row pattern with a condition to multiple it with the  values of the column
-
+        print(row_numbers * column_numbers, end = " ")
 #Print the result of the column 
+    print(" ")
