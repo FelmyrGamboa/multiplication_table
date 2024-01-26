@@ -11,3 +11,11 @@
 # 8  16 24 32 40 48 56 64 72 80 		
 # 9  18 27 36 45 54 63 72 81 90 		
 # 10 20 30 40 50 60 70 80 90 100 
+
+#Create a for loop for the row pattern with a range starting from 1 to 10
+
+#Create another for loop for the column pattern with a range starting from 1 to 10 
+
+#Print the result of the row pattern with a condition to multiple it with the  values of the column
+
+#Print the result of the column 
